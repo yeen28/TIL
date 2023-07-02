@@ -9,4 +9,5 @@
 
 ## Study
 #### Design pattern
+* <a href="https://github.com/yeen28/TIL/tree/main/study/design-pattern/factory-method">Factory Method</a>
 * <a href="https://github.com/yeen28/TIL/tree/main/study/designPattern/templateMethod">Template Method</a>
